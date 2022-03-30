@@ -83,6 +83,9 @@ pip install powerline-status --user
 
 ```bash
 sudo easy_install pip
+
+如果mac本地python版本低于3.0 使用下面命令
+sudo easy_install "pip<21.0"
 ```
 
 安装后再次执行安装powerline的命令即可。
